@@ -1,5 +1,7 @@
 ## 👨‍💻 Hi, I am Arman
 
+A high-resolution professional dark theme header banner for a web development company named "Syntax Network". Ultra-sleek neon dark cyan and violet accents on a deep pitch-black minimalist background. Glowing subtle code snippets, abstract neural network lines, and modern web architecture nodes. Hyper-realistic, 8k resolution, cinematic lighting, sleek tech aesthetic, clean typography saying "SYNTAX NETWORK", no clutter, aspect ratio 3:1.
+
 Hello! I'm **MD Arman Prodhania**, a passionate **Computer Science & Engineering (CSE)** student and a full-stack Web Application Developer based in **Chandpur, Bangladesh**.
 
 I specialize in building high-performance, scalable web applications and writing automated solutions to streamline complex workflows. Driven by continuous learning and problem-solving, I turn ideas into clean, functional, and efficient code. I also love Music 🎧
