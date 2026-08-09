@@ -1,16 +1,38 @@
-## Hi there 👋
+## 👨‍💻 Hi, I am Arman
 
-<!--
-**armanalwaysone/armanalwaysone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm **MD Arman Prodhania**, a passionate **Computer Science & Engineering (CSE)** student and a full-stack Web Application Developer based in **Chandpur, Bangladesh**.
 
-Here are some ideas to get you started:
+I specialize in building high-performance, scalable web applications and writing automated solutions to streamline complex workflows. Driven by continuous learning and problem-solving, I turn ideas into clean, functional, and efficient code. I also love Music 🎧
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+⚡ **Core Expertise & Focus:**
+- 💻 **Web Application Development:** Building dynamic, responsive, and secure web applications.
+- ⚙️ **Process Automation:** Writing custom scripts and tools to automate repetitive tasks and optimize workflows.
+- 🧩 **Problem Solving:** Applying computer science fundamentals, data structures, and algorithms to tackle complex coding challenges.
+- 🛠️ **System Architecture:** Designing maintainable, clean code architectures following best practices.
+
+---
+
+## 🛠️ Skills & Technical Expertise
+
+### 🌐 Web & Application Development
+- **Core Tech:** Full-Stack Web Development, RESTful API Integration & Development, Web Applications
+- **Concepts:** Web Automation, Responsive Design, System Logic & Architecture
+
+### 🖥️ Software & System Tools
+- **Office & Productivity:** Microsoft Office Suite (Word, Excel, PowerPoint)
+- **Utilities & Software:** Advanced PC Software Configuration, Troubleshooting & System Optimization
+- **Data & Speed:** High-Speed Accurate Data Entry & Typing
+
+### 🎨 Creative & Media Production
+- **Graphic Design:** Visual Content Creation, Branding Assets, UI/UX Concepts
+- **Video Editing:** Post-Production, Tech/Gaming Content Editing, Motion Graphics
+- **Gaming Tech:** Game Server Setup, Gaming Portal/Site Integration & Management
+
+---
+
+📫 **Get in Touch:**
+- 🌐 **Location:** Matlab South, Chandpur, Bangladesh
+- 💬 Ask me about: **Web Development, Automation, and System Optimization**
+- signeture: __arman__
