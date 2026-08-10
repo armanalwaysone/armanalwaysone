@@ -3,7 +3,7 @@
 ## 👋 Hi, I am Arman
 
 <br>
-Hello! I'm **MD Arman Prodhania**, a passionate **Computer Science & Engineering (CSE)** student and a full-stack Web Application Developer based in **Chandpur, Bangladesh**.
+Hello! I'm  MD Arman Prodhania , a passionate Computer Science & Engineering (CSE) student and a full-stack Web Application Developer based in Chandpur, Bangladesh.
 
 I specialize in building high-performance, scalable web applications and writing automated solutions to streamline complex workflows. Driven by continuous learning and problem-solving, I turn ideas into clean, functional, and efficient code. I also love Music 🎧
 
