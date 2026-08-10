@@ -1,13 +1,18 @@
-## 👨‍💻 Hi, I am Arman
+<div align="center">
+
+# 👨‍💻 Hi, I am Arman
 
 Hello! I'm **MD Arman Prodhania**, a passionate **Computer Science & Engineering (CSE)** student and a full-stack Web Application Developer based in **Chandpur, Bangladesh**.
 
 I specialize in building high-performance, scalable web applications and writing automated solutions to streamline complex workflows. Driven by continuous learning and problem-solving, I turn ideas into clean, functional, and efficient code. I also love Music 🎧
 
 ---
-### 🌐 Organaization I have ( Syntax Network )
+### 🌐 Organization I have ( Syntax Network )
 
 ##### Syntax Network is an innovative web development and digital solutions initiative dedicated to building scalable web applications, robust APIs, and automated workflows. We blend clean code syntax with modern design to transform complex logic into reliable tech experiences. Driven by efficiency, modern web practices, and continuous innovation.
+
+</div>
+
 ---
 
 ⚡ **Core Expertise & Focus:**
@@ -36,7 +41,8 @@ I specialize in building high-performance, scalable web applications and writing
 
 ---
 
-📫 **Get in Touch:**
-- 🌐 **Location:** Matlab South, Chandpur, Bangladesh
-- 💬 Ask me about: **Web Development, Automation, and System Optimization**
-- signeture: __arman__
+```text
+📫 Get in Touch:
+- 🌐 Location: Matlab South, Chandpur, Bangladesh
+- 💬 Ask me about: Web Development, Automation, and System Optimization
+- signature: __arman__
